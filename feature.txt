@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-myassesment3Bangalore
-=======
 Hyderabad
->>>>>>> New-feature
